@@ -1,27 +1,26 @@
-## How To Do
+## How To Do<br>
+### Projeto de Estudo Ponta à Ponta - Criação de um Software<br>
+### Controle de Atestados<br>
 
-### Projeto de Estudo Ponta à Ponta - Criação de um Software
-### Controle de Atestados
-
-
-#### Estrutura
-
-[Banco de dados](database/database.md)
-        - SQL Lite
-        - Postgres
-        - Firebird
-[Linguagens do Projeto](project_languages/project_languages.md)
-        - Delphi
-        - C#
-        - Java
-[Código Fonte](project_code/project_code.md)
-        - Controle de Atestados
-        - Descrição e Objetivo
-        - Projeto Visual
-        - Requisitos Funcionais
-        - Casos de Uso
-        - Funcionalidades
-        - Código Fonte
-[Sobre mim](about/about.md)
-        - Sobre mim
-        - Contatos
+<br>
+#### Estrutura<br>
+<br>
+[**Banco de dados**](database/database.md)<br>
+        - SQL Lite<br>
+        - Postgres<br>
+        - Firebird<br>
+[**Linguagens do Projeto**](project_languages/project_languages.md)<br>
+        - Delphi<br>
+        - C#<br>
+        - Java<br>
+[**Código Fonte**](project_code/project_code.md)<br>
+        - Controle de Atestados<br>
+        - Descrição e Objetivo<br>
+        - Projeto Visual<br>
+        - Requisitos Funcionais<br>
+        - Casos de Uso<br>
+        - Funcionalidades<br>
+        - Código Fonte<br>
+[**Sobre mim**](about/about.md)<br>
+        - Sobre mim<br>
+        - Contatos<br>
