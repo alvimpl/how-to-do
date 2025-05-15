@@ -15,13 +15,13 @@ Caso a projeção do Software seja bem robusta, utilize MySQL que é Open Source
 **_Partindo daí deixo a configuração do projeto usando SQL Lite e todo seu passo à passo, usando versão gratuita disponível atualmente no ano desta documentação (2025)._**
 
 
-[**SQLite**](sqlite.md)
-	Download SQLiteStudio
-	Download SQL Lite
-		Configurações
-			Nome do Banco
-			Criando usuários
-			Tabelas
-			PK / FK
-			Procedures / Funções
-			Triggers
+[**SQLite**](sqlite.md)  
+- Download SQLiteStudio  
+- Download SQL Lite  
+	- Configurações  
+	- Nome do Banco  
+	- Criando usuários  
+	- Tabelas  
+	- PK / FK  
+	- Procedures / Funções  
+	- Triggers  
