@@ -1,4 +1,4 @@
-###Banco de Dados
+### Banco de Dados
 
 A escolha do banco de dados terá grande influência no projeto, qual objetivo e tamanho da demanda que será atendida?
 Antes de mais nada, qual tipo de banco usar, **Relacional** ou **Não Relacional**? A estrutura que você usará pode contribuir para o desempenho.
