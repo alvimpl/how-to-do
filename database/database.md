@@ -16,8 +16,8 @@ Caso a projeção do Software seja bem robusta, utilize MySQL que é Open Source
 
 
 [**SQLite**](sqlite.md)  
-- <a href="(https://sqlitestudio.pl)" target="_blank">Download SQLiteStudio</a>
-- <a href="(https://www.sqlite.org/download.html)" target="_blank">Download SQLite</a>
+- [Download SQLiteStudio](https://sqlitestudio.pl)
+- [Download SQLite](https://www.sqlite.org/download.html)
 	- Configurações  
 	- Nome do Banco  
 	- Criando usuários  
