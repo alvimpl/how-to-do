@@ -4,15 +4,17 @@
 
 #### Estrutura  
 
-[**Banco de dados**](database/database.md)  
+- [**Banco de dados**](database/database.md)  
 * SQL Lite  
 * Postgres  
 * Firebird  
-[**Linguagens do Projeto**](project_languages/project_languages.md)  
+
+- [**Linguagens do Projeto**](project_languages/project_languages.md)  
 * Delphi  
 * C#  
 * Java  
-[**Código Fonte**](project_code/project_code.md)  
+
+- [**Código Fonte**](project_code/project_code.md)  
 * Controle de Atestados  
 * Descrição e Objetivo  
 * Projeto Visual  
@@ -20,6 +22,7 @@
 * Casos de Uso  
 * Funcionalidades  
 * Código Fonte  
-[**Sobre mim**](about/about.md)  
+
+- [**Sobre mim**](about/about.md)  
 * Sobre mim  
 * Contatos  
