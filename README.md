@@ -5,8 +5,8 @@ Este repositório irá registrar todo caminho de estudo e criação de um softwa
 À seguir separo em tópicos cada assunto, será incluído de acordo com o andamento do mesmo, mas não deixe de acessar os tópicos do [Projeto](project_code/project_code.md), onde terá todo detalhamento necessário.  
 
 [Banco de dados](database/database.md)  
-* SQL Lite  
-* Postgres  
+* SQLite  
+* PostgreSQL  
 * Firebird  
 
 
