@@ -17,8 +17,22 @@ Este repositório irá registrar todo caminho de estudo e criação de um softwa
 * Java  
 
 ---------------------------------------------------------------------------------------------  
-[Projeto](project_code/project_code.md)  
-- Controle de Atestados  
+[Projetos](project_code/project_code.md)  
+- App Atestados  
+  * Casos de Uso  
+  * Projeto Visual  
+  * Requisitos Funcionais  
+  * Funcionalidades  
+  * Código Fonte  
+
+- App Financeiro  
+  * Casos de Uso  
+  * Projeto Visual  
+  * Requisitos Funcionais  
+  * Funcionalidades  
+  * Código Fonte  
+
+- App Colecionador  
   * Casos de Uso  
   * Projeto Visual  
   * Requisitos Funcionais  
