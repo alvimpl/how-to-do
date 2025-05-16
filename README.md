@@ -15,13 +15,13 @@
 * Java  
 
 [Código Fonte](project_code/project_code.md)  
-* Controle de Atestados  
-* Descrição e Objetivo  
-* Projeto Visual  
-* Requisitos Funcionais  
-* Casos de Uso  
-* Funcionalidades  
-* Código Fonte  
+- Controle de Atestados  
+  * Descrição e Objetivo  
+  * Projeto Visual  
+  * Requisitos Funcionais  
+  * Casos de Uso  
+  * Funcionalidades  
+  * Código Fonte  
 
 [Sobre mim](about/about.md)  
 * Sobre mim  
