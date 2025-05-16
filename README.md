@@ -1,27 +1,29 @@
-## How To Do  
-### Projeto de Estudo Ponta à Ponta - Criação de um Software  
-### Controle de Atestados  
+## Projeto de Estudo Ponta à Ponta
+## Criação de um Software  
 
-#### Estrutura  
+Este repositório irá registrar todo caminho de estudo e criação de um software completo, desde a sua arquitetura de dados, design, código, relatórios e tudo mais... 
+À seguir separo em tópicos cada assunto, será incluído de acordo com o andamento do mesmo, mas não deixe de acessar os tópicos do [Projeto](project_code/project_code.md), onde terá todo detalhamento necessário.  
 
 [Banco de dados](database/database.md)  
 * SQL Lite  
 * Postgres  
 * Firebird  
 
-[Linguagens do Projeto](project_languages/project_languages.md)  
+
+[Escolha da linguagem](project_languages/project_languages.md)  
 * Delphi  
 * C#  
 * Java  
 
-[Código Fonte](project_code/project_code.md)  
+
+[Projeto](project_code/project_code.md)  
 - Controle de Atestados  
-  * Descrição e Objetivo  
+  * Casos de Uso  
   * Projeto Visual  
   * Requisitos Funcionais  
-  * Casos de Uso  
   * Funcionalidades  
   * Código Fonte  
+
 
 [Sobre mim](about/about.md)  
 * Sobre mim  
